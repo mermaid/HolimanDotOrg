@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Holiman.org</title>
+		<description>{&quot;meta&quot;=&gt;&quot;Holiman.org&quot;, &quot;subtitle&quot;=&gt;nil}</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Making Fire Orange Joy-Con</title>
+				
+					
+						<dc:creator>{&quot;name&quot;=&gt;&quot;Cameron Holiman&quot;, &quot;info&quot;=&gt;nil}</dc:creator>
+					
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;../img/joy-con/IMG_1745.jpg&quot; alt=&quot;#leftjoycon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve always loved the &lt;a href=&quot;http://nintendo64.wikia.com/wiki/Funtastic_Color_Series&quot;&gt;Funtastic Nintendo 64 consoles&lt;/a&gt;. The console of my childhood was gray, but that controller man… Atomic Purple.&lt;/p&gt;
+
+&lt;p&gt;Once I saw that you could get clear ones from Amazon and AliExpress, I was sold. And from having a hobby making and collecting props, I knew just how to color them.&lt;/p&gt;
+
+&lt;p&gt;Things you’ll need:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B00EYK21UY/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00EYK21UY&amp;amp;linkCode=as2&amp;amp;tag=islandsprite-20&amp;amp;linkId=04e752eab0614a128b5569a7fc7d2d3a&quot;&gt;iDye Poly with Color Intensifier&lt;/a&gt; in the color of your choosing (other dyes meant for polyester/plastic may also work. YMMV)&lt;/li&gt;
+  &lt;li&gt;A pot big enough to hold the Joy-Con housings in a small vat of dye&lt;/li&gt;
+  &lt;li&gt;A thermometer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B07527NNBG&amp;amp;linkCode=as2&amp;amp;tag=islandsprite-20&amp;amp;linkId=4ac5b54162469fffeaa8bcbe608bb870&quot;&gt;Clear replacement Joy-Con housings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A pair of tongs to fish the Joy-Con out of the boiling dye vat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The basic principle to dying plastics (or most anything) is that you need a dye that can be absorbed into the plastic (RIT is my go to for dying most things, but it only really dyes natural fibers, so we need a dye meant for plastics/synthetic polymers. iDye Poly works great for this) and heat. For maximum dye absorption (and therefor brightness) you want to heat up the water/dye combo to as hot as the plastic can take without melting/warping. After a few minutes, you take them out and dunk them in cold water to “seal” in the dye. You can then repeat a few more time for max color.&lt;/p&gt;
+
+&lt;p&gt;Lets do this.&lt;/p&gt;
+
+&lt;p&gt;The Joy-Con are made out of ABS, which has no true melting/softening point, but according to Wikipedia, it’s generally usable up to 178°F/80°C. So heat up your water near there (I used ~160°F/70°C)&lt;/p&gt;
+
+&lt;p&gt;I experimented first with the middle plastic piece that holds the battery inside the Joy-Con. I wanted to make sure the dye would work and the temperature wasn’t too hot before making the plunge.&lt;/p&gt;
+
+&lt;p&gt;I suggest you do this, because I definitely had the water too hot. The piece warped pretty badly. Becaues of this I just used the gray part one from the original. The only downside I see from this is that the little piece of plastic in between the triggers and bumpers is still gray, but you can barely tell.&lt;/p&gt;
+
+&lt;p&gt;So here is what I did:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;heat up some water to 160°F/70°C&lt;/li&gt;
+  &lt;li&gt;add in some dye (probably only some of it, i used about half for the whole pot) and color intensifier&lt;/li&gt;
+  &lt;li&gt;let it sit for ~5 minutes (agitate/stir it frequently)&lt;/li&gt;
+  &lt;li&gt;use tongs to pull the parts out of the dye and put it into cold water&lt;/li&gt;
+  &lt;li&gt;repeat dye baths until you reach the color you’re wanting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Done! That was simple!&lt;/p&gt;
+
+&lt;p&gt;Now just take apart a set of Joy-Con and replace the parts (iFixit has a pretty good guide)
+&lt;em&gt;Caution:&lt;/em&gt; It’s the devil&lt;/p&gt;
+
+&lt;p&gt;//TODO: link&lt;/p&gt;
+
+&lt;p&gt;P.S. I also make a YouTube video documenting this experiment&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/joy-con/IMG_1729.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/joy-con/IMG_1743.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/joy-con/IMG_1734.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/joy-con/IMG_1736.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/joy-con/IMG_1745.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/joy-con/IMG_1748.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 14 Sep 2017 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/2017/09/14/fire-orange-joy-con/</link>
+				<guid isPermaLink="true">http://localhost:4000/2017/09/14/fire-orange-joy-con/</guid>
+			</item>
+		
+	</channel>
+</rss>
