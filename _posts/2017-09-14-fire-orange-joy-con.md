@@ -38,7 +38,7 @@ So here is what I did:
 
 Done! That was simple!  
 
-Now just take apart a set of Joy-Con and replace the parts (iFixit has a pretty good guide).  
+Now just take apart a set of Joy-Con and replace the parts ([look on youtube for tutorials on how to take them apart](https://www.youtube.com/watch?v=unZABUO5w60)).  
 
 P.S. I also make a YouTube video documenting this experiment 
 
