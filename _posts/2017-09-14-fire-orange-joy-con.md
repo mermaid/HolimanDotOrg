@@ -11,10 +11,10 @@ I’ve always loved the [Funtastic Nintendo 64 consoles](http://nintendo64.wikia
 Once I saw that you could get clear ones from Amazon and AliExpress, I was sold. And from having a hobby making and collecting props, I knew just how to color them.
 
 Things you’ll need:
+- [Clear replacement Joy-Con housings](https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07527NNBG&linkCode=as2&tag=islandsprite-20&linkId=4ac5b54162469fffeaa8bcbe608bb870)
  - [iDye Poly with Color Intensifier](https://www.amazon.com/gp/product/B00EYK21UY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EYK21UY&linkCode=as2&tag=islandsprite-20&linkId=04e752eab0614a128b5569a7fc7d2d3a) in the color of your choosing (other dyes meant for polyester/plastic may also work. YMMV)
  - A pot big enough to hold the Joy-Con housings in a small vat of dye
  - A thermometer
- - [Clear replacement Joy-Con housings](https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07527NNBG&linkCode=as2&tag=islandsprite-20&linkId=4ac5b54162469fffeaa8bcbe608bb870)
  - A pair of tongs to fish the Joy-Con out of the boiling dye vat
 
 The basic principle to dying plastics (or most anything) is that you need a dye that can be absorbed into the plastic (RIT is my go to for dying most things, but it only really dyes natural fibers, so we need a dye meant for plastics/synthetic polymers. iDye Poly works great for this) and heat. For maximum dye absorption (and therefor brightness) you want to heat up the water/dye combo to as hot as the plastic can take without melting/warping. After a few minutes, you take them out and dunk them in cold water to “seal” in the dye. You can then repeat a few more time for max color.
