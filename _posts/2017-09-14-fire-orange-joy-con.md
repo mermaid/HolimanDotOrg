@@ -11,8 +11,8 @@ I’ve always loved the [Funtastic Nintendo 64 consoles](http://nintendo64.wikia
 Once I saw that you could get clear ones from Amazon and AliExpress, I was sold. And from having a hobby making and collecting props, I knew just how to color them.
 
 Things you’ll need:
-- [Clear replacement Joy-Con housings](https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07527NNBG&linkCode=as2&tag=islandsprite-20&linkId=4ac5b54162469fffeaa8bcbe608bb870)
- - [iDye Poly with Color Intensifier](https://www.amazon.com/gp/product/B00EYK21UY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EYK21UY&linkCode=as2&tag=islandsprite-20&linkId=04e752eab0614a128b5569a7fc7d2d3a) in the color of your choosing (other dyes meant for polyester/plastic may also work. YMMV)
+- [Clear replacement Joy-Con housings](https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07527NNBG&linkId=2c675c7f9fde1bcd1484ad05f1abf719)
+ - [iDye Poly with Color Intensifier](https://www.amazon.com/gp/product/B00EYK21UY/ref=as_li_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EYK21UY&linkId=8e235289620d76fb8104da960faaea68) in the color of your choosing (other dyes meant for polyester/plastic may also work. YMMV)
  - A pot big enough to hold the Joy-Con housings in a small vat of dye
  - A thermometer
  - A pair of tongs to fish the Joy-Con out of the boiling dye vat
