@@ -4,7 +4,8 @@ og-image: joy-con/IMG_1745.jpg
 excerpt: I’ve always loved the Funtastic Nintendo 64 consoles. The console of my childhood was gray, but that controller man… Atomic Purple was my jam.
 ---
 
-![#leftjoycon](../img/joy-con/IMG_1745.jpg)
+![#leftjoycon](/img/joy-con/IMG_1745.jpg)
+[Just take me to the photos!]({{ page.url }}#photos)
 
 
 I’ve always loved the [Funtastic Nintendo 64 consoles](http://nintendo64.wikia.com/wiki/Funtastic_Color_Series). The console of my childhood was gray, but that controller man… Atomic Purple was my jam.
@@ -43,6 +44,8 @@ P.S. I also make a YouTube video documenting this experiment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCNbDy_LYfw" frameborder="0" allowfullscreen></iframe>
 
+
+### Photos
 ![](/img/joy-con/IMG_1729.jpg)
 ![](/img/joy-con/IMG_1743.jpg)
 ![](/img/joy-con/IMG_1734.jpg)
