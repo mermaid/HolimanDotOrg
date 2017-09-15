@@ -19,7 +19,7 @@ Things you’ll need:
  - A thermometer
  - A pair of tongs to fish the Joy-Con out of the boiling dye vat  
 
-The basic principle to dying plastics (or most anything) is that you need a dye that can be absorbed into the plastic (RIT is my go to for dying most things, but it only really dyes natural fibers, so we need a dye meant for plastics/synthetic polymers. iDye Poly works great for this) and heat. For maximum dye absorption (and therefor brightness) you want to heat up the water/dye combo as hot as the plastic can take without it melting/warping. After a few minutes, you take them out and dunk them in cold water to "seal" in the dye. You can then repeat a few more time for max color.  
+The basic principle to dyeing plastics (or most anything) is that you need a dye that can be absorbed into the plastic (RIT is my go to for dyeing most things, but it only really dyes natural fibers, so we need a dye meant for plastics/synthetic polymers. iDye Poly works great for this) and heat. For maximum dye absorption (and therefor brightness) you want to heat up the water/dye combo as hot as the plastic can take without it melting/warping. After a few minutes, you take them out and dunk them in cold water to "seal" in the dye. You can then repeat a few more time for max color.  
 
 Let's do this.  
 
@@ -55,6 +55,6 @@ P.S. I also make a YouTube video documenting this experiment
 
 P.P.S. After all this effort and making/eding this tutorial and video, you can now [purchase transparent colored Joy-Con from Amazon](https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07527NNBG&linkId=2c675c7f9fde1bcd1484ad05f1abf719) instead of clear ones. Most of them definitely look pretty good (with the possible exception for being too clear) compared to the true n64 colors. Fortunately, the Fire Orange seems particularly inaccurate ;)  
 
-As of my writing this, you can't buy only the Joy-Con housings from them (you have to buy the back panel too), but hopefully that'll change soon. If you like the look of the color you want I'd say it's probably better to buy them instead of dying in most cases.  
+As of my writing this, you can't buy only the Joy-Con housings from them (you have to buy the back panel too), but hopefully that'll change soon. If you like the look of the color you want I'd say it's probably better to buy them instead of dyeing in most cases.  
 
-Still though, dying works great for that time when you can't find the perfect color of housing, or just want to experiment and have fun.
+Still though, dyeing works great for that time when you can't find the perfect color of housing, or just want to experiment and have fun.
