@@ -15,7 +15,7 @@ Once I saw that you could get clear housings from Amazon and AliExpress, I was s
 
 Things you’ll need:
 - [Clear replacement Joy-Con housings](https://www.amazon.com/gp/product/B07527NNBG/ref=as_li_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07527NNBG&linkId=2c675c7f9fde1bcd1484ad05f1abf719)
- - [iDye Poly with Color Intensifier](https://www.amazon.com/gp/product/B00EYK21UY/ref=as_li_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EYK21UY&linkId=8e235289620d76fb8104da960faaea68) in the color of your choosing (other dyes meant for polyester/plastic may also work. YMMV)
+ - [iDye Poly with Color Intensifier](https://www.amazon.com/gp/product/B00EYK21UY/ref=as_li_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EYK21UY&linkId=8e235289620d76fb8104da960faaea68) in the color of your choosing (other dyes meant for polyester/plastic should also work. YMMV)
  - A pot big enough to hold the Joy-Con housings in a small vat of dye
  - A thermometer
  - A pair of tongs to fish the Joy-Con out of the boiling dye vat  
