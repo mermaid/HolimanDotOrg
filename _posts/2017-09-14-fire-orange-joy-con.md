@@ -6,7 +6,7 @@ excerpt: I’ve always loved the Funtastic Nintendo 64 consoles. The console of 
 
 ![#leftjoycon](/img/joy-con/IMG_1745.jpg)
 [Just take me to the photos!]({{ page.url }}#photos)  
-[Just take me to the YouTube!](https://www.youtube.com/embed/gCNbDy_LYfw)
+[Just take me to the YouTube!](https://www.youtube.com/watch?v=gCNbDy_LYfw)
 
 
 I’ve always loved the [Funtastic Nintendo 64 consoles](http://nintendo64.wikia.com/wiki/Funtastic_Color_Series). The console of my childhood was gray, but that controller man… Atomic Purple was my jam.
@@ -25,13 +25,14 @@ The basic principle to dyeing plastics (or most anything) is that you need a dye
 Let's do this.  
 
 The Joy-Con are made out of ABS, which has no true melting/softening point, but according to Wikipedia, it’s generally usable up to 178°F/80°C. So heat up your water near there (I used ~160°F/70°C)  
+EDIT: I was told by someone from the [YouTubes](https://www.youtube.com/watch?v=gCNbDy_LYfw) that the cloudiness was from getting them too hot, so maybe try 150°F/65°C and see if that still works well
 
 I experimented first with the middle plastic piece that holds the battery inside the Joy-Con. I wanted to make sure the dye would work and the temperature wasn’t too hot before making the plunge.  
 
 I suggest you do this as well, because I definitely had the water too hot. The piece warped pretty badly. Becaues of this I just used the gray part one from the original. The only downside I see from this is that the little piece of plastic in between the triggers and bumpers is still gray, but you can barely tell.  
 
 So here is what I did:
- - heat up some water to 160°F/70°C
+ - heat up some water to 160°F/70°C (or 150°F/65°C as mentioned above)
  - add in some dye (probably only some of it, i used about half for the whole pot) and color intensifier
  - let it sit for ~5 minutes (agitate/stir it frequently)
  - use tongs to pull the parts out of the dye and put it into cold water
