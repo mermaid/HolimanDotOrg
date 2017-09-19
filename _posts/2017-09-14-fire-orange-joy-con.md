@@ -5,8 +5,7 @@ excerpt: I’ve always loved the Funtastic Nintendo 64 consoles. The console of 
 ---
 
 ![#leftjoycon](/img/joy-con/IMG_1745.jpg)
-[Just take me to the photos!]({{ page.url }}#photos)
-
+[Just take me to the photos!]({{ page.url }}#photos)  
 [Just take me to the YouTube!](https://www.youtube.com/embed/gCNbDy_LYfw)
 
 
