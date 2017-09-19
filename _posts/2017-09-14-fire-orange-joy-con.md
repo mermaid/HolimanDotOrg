@@ -7,6 +7,8 @@ excerpt: I’ve always loved the Funtastic Nintendo 64 consoles. The console of 
 ![#leftjoycon](/img/joy-con/IMG_1745.jpg)
 [Just take me to the photos!]({{ page.url }}#photos)
 
+[Just take me to the YouTube!](https://www.youtube.com/embed/gCNbDy_LYfw)
+
 
 I’ve always loved the [Funtastic Nintendo 64 consoles](http://nintendo64.wikia.com/wiki/Funtastic_Color_Series). The console of my childhood was gray, but that controller man… Atomic Purple was my jam.
 
@@ -38,7 +40,11 @@ So here is what I did:
 
 Done! That was simple!  
 
-Now just take apart a set of Joy-Con and replace the parts ([look on youtube for tutorials on how to take them apart](https://www.youtube.com/watch?v=unZABUO5w60)).  
+Now just take apart a set of Joy-Con and replace the parts.
+[I'd recommend looking on youtube for tutorials on how to take them apart.](https://www.youtube.com/watch?v=unZABUO5w60) I do, however, have a few tips for replacing the housings:
+ - If you plan to use the original buttons, you may need to file the holes in the housing just a bit. 2 out of the 8 button holes on my housings were slightly too tight. I filed the inside of the holes down ever so slightly with a set of [needle files](https://www.amazon.com/gp/product/B01MRCZKIX/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=holimandotorg-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MRCZKIX&linkId=96d945b48823d05b6d50187b541aaa18) and that solved all my issues.
+ - Don't screw the outer screws all the way in. If you screw them down until they stop turning the triggers and +/- buttons might not click/work. If you run into this issue, try loosening them up a turn or two and see if that fixes your issues.
+ - If you're having trouble reassembling the Joy-Con (specifically the right one), try assembling (reattaching all the ribbon cables) all of the electronics outside of the housing, then dropping it in and screwing them in while they're all attached to each other. I had to do this to get them re-assembled.
 
 P.S. I also make a YouTube video documenting this experiment 
 
